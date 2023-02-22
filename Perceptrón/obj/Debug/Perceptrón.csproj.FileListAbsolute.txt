@@ -1,0 +1,20 @@
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\bin\Debug\Perceptrón.exe.config
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\bin\Debug\Perceptrón.exe
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\bin\Debug\Perceptrón.pdb
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.csprojAssemblyReference.cache
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.Form1.resources
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.Properties.Resources.resources
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.exe
+C:\Users\jorge\Documents\ITA\8° Semestre\Ingeniería del conocimento\Unidad 4\Perceptrón\Perceptrón\obj\Debug\Perceptrón.pdb
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.csprojAssemblyReference.cache
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.Form1.resources
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.Properties.Resources.resources
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.csproj.GenerateResource.cache
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.csproj.CoreCompileInputs.cache
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.exe
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\obj\Debug\Perceptrón.pdb
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\bin\Debug\Perceptrón.exe.config
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\bin\Debug\Perceptrón.exe
+C:\Users\haban\Downloads\Perceptrón\Perceptrón\bin\Debug\Perceptrón.pdb
